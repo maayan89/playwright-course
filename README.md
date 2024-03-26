@@ -15,7 +15,7 @@ I'm a QA Automation Engineer with expertise in Playwright, JavaScript, HTML, CSS
 - **API Testing:** Postman
 
 
-Feel free to explore more of my projects on [playwright-project](https://github.com/maayan89/playwright-project).
+Feel free to explore more of my projects on [GitHub](https://github.com/maayan89/playwright-project).
 
 ## 📫 Let's Connect
 
